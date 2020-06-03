@@ -1,0 +1,13 @@
+Separation of magnetic anomalies into induced and remanent magnetization contributions
+
+Jamaledin Baniamerian1, 2, 3, Shuang Liu2, *, Xiangyun Hu2, Maurizio Fedi4, Mahak Singh Chauhan5, and Mahmoud Ahmed Abbas6
+
+1 Department of Earth Sciences, College of Sciences and Modern Technologies, Graduate University of Advanced Technology, Kerman, Iran
+2 Hubei Subsurface Multi-scale Imaging Key Laboratory, Institute of Geophysics and Geomatics, China University of Geosciences, Wuhan, China
+3 Department of Mathematics and Physics, University of Roma Tre, Rome, Italy
+4 Department of Earth, Environmental and Resources Science, Naples University of Federico II, Naples, Italy
+5 CSIR-National Geophysical Research Institute, Hyderabad, India
+6 Geology department, Faculty of Science, South Valley University, Qena, Egypt
+
+*Corresponding author: Shuang Liu (lius@cug.edu.cn)
+
